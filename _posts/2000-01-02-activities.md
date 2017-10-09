@@ -7,7 +7,7 @@ icon: cesium.png
 
 #### De que estás à espera?
 
-# Temos preparado
+# Temos preparado para ti...
 <div class="row features">
   <div class="col s12 m6 feature">
     <i class="fa fa-comments-o fa-4x">
@@ -19,7 +19,7 @@ icon: cesium.png
   <div class="col s12 m6 feature">
     <i class="fa fa-trophy fa-4x">
     </i>
-    <h4> Torneios</h4>
+    <h4> Torneio </h4>
     <p class="feature-description"> Decorrerá um torneio de Hearthstone durante toda a semana. Participa e habilita-te a ganhar um prémio. </p>
   </div>
 </div>

@@ -6,7 +6,7 @@ allweek:
     text: É durante este dia que o Departamento de Informática entra numa máquina do tempo. Os computadores são substituídos pelos seus antecessores dos anos 80 e 90. Aparece para relembrares as raízes da computação através de um museu aberto!
 
 monday:
-  - title: Segurança
+  - title: Palestra de Segurança
     time: 16h-17h
     place: DI A2
     image: seguranca.png

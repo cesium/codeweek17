@@ -8,7 +8,7 @@ fa-icon: gamepad
 
 # Torneio de HearthStone 
 
-#### Para concorreres basta aceder ao enunciado e entares no concurso CodeWeek16
+#### Para concorreres basta aceder ao enunciado e entares no concurso CodeWeek17
 <h2> <a href="https://mooshak.di.uminho.pt"> Enunciado </a> </h2>
 <p></p>
 

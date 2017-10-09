@@ -1,0 +1,47 @@
+---
+
+port: 4000
+host: 0.0.0.0
+safe: false
+
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore]
+permalink: /:title ## disables post output
+timezone: null
+lsi: false
+markdown: kramdown
+highlighter: pygments
+
+
+### content configuration ###
+title:       "Code Week 2017 @ UMinho"
+keywords:    "CeSIUM, jekyll, Code Week, github, universidade do minho, departamento informatica"
+description: "Code Week 2017 no Departamento de Informática da Universidade do Minho, organizada pelo CeSIUM - Centro de Estudantes de Engenharia Informática"
+source_link: "https://github.com/cesium/codeweek15"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
+google_analytics_key: UA-67237593-4 ## put YOUR key here to enable tracking! (blank to disable)
+
+
+### template colors, used site-wide via css ###
+colors:
+  white:        '#eaeaea'
+  grey :        '#696969'
+  intro:        '#696969'
+  activities:   '#428bca'
+  challenges:   '#ed7950'
+  saturday-one: '#66b266'
+  monday:       '#5ea06e'
+  tuesday:      '#578e77'
+  wednesday:    '#4f7c80'
+  thursday:     '#486a89'
+  friday:       '#415992'
+  saturday-two: '#39479b'
+  contacts:     '#3035A4'
+
+kramdown:
+  auto_ids:  false
+
+sass:
+  sass_dir: stylesheets/_sass/

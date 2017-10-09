@@ -1,0 +1,67 @@
+allweek:
+  - title: DI Goes Retro
+    time: 9h-18h
+    place: Átrio do DI
+    image: retro.png
+    text: É durante este dia que o Departamento de Informática entra numa máquina do tempo. Os computadores são substituídos pelos seus antecessores dos anos 80 e 90. Aparece para relembrares as raízes da computação através de um museu aberto!
+
+monday:
+  - title: Segurança
+    time: 16h-17h
+    place: DI A2
+    image: seguranca.png
+    typeform: https://cesium.typeform.com/to/HKIJg7
+    text: 'A <a target="_blank" href="http://eurotux.com/">Eurotux</a> apresenta-te mais uma sessão sobre cibersegurança. Junta-te a nós para aprenderes os básicos de sistemas e segurança e como os hackers exploram as vulnerabilidades.'
+
+  - title: Introdução à Shell
+    time: 17h-18h
+    place: DI A2
+    image: infotricks.png
+    typeform: https://cesium.typeform.com/to/xrourN
+    text: Workshop onde os novos alunos poderão aprender os comandos mais importantes e básicos duma shell. Para além disso irão conhecer novas shells e novas ferramentas de trabalho que poderão levar a um trabalho mais produtivo e cómodo.
+
+tuesday:
+  - title: JavaScript
+    time: 16h-17h
+    place: DI A2
+    image: javascript.png
+    typeform: https://cesium.typeform.com/to/KXQzu7
+    text: JavaScript é uma das linguagens em maior desenvolvimento, com várias frameworks a surgir! Junta-te a <a target="_blank" href="https://github.com/pfac">Pedro Costa</a> para aprenderes os básicos desta linguagem essencial para o desenvolvimento web.
+
+  - title: Building your WebExtension
+    time: 17h-18h
+    place: DI A2
+    image: geenorbertk.png
+    text: TBA
+
+wednesday:
+  - title: Sessão de estudo de Programação Funcional
+    time: 17h30-19h
+    place: TBA
+    image: sessao_estudo.png
+    typeform: https://cesium.typeform.com/to/xrourN
+    text: Sentes os testes a aproximarem-se e não te sentes preparado? A programação ainda é um bicho de 7 cabeças para ti? Não tem de ser! Aparece e vem tirar dúvidas e estudar connosco. A programação não tem de ser complicada.
+
+thursday:
+  - title: Informática, mas que raio?!
+    time: 17h-18h
+    place: TBA
+    image: informatictricks.png
+    typeform: https://cesium.typeform.com/to/jspHTH
+    text: A Informática é um hobbie mas não uma vocação? Não és de um curso da área de Informática mas estás interessado em aprender mais? Então aparece! Sim estamos a falar para ti! A Informática não é só para nerds!
+
+friday:
+  - title: HTML/CSS
+    time: 17h-19h
+    place: DI A2
+    image: html_css.png
+    typeform: https://cesium.typeform.com/to/YfsOjE
+    text: Da lista das coisas que podes usar agora e que o curso não te oferece HTML/CSS está no topo. Aproveita esta oportunidade de aprenderes uma ferramenta nova e está atento às surpresas que temos para ti.
+
+saturday:
+  - title: CoderDojo Minho
+    time: 10h-12h
+    place: BragaIO 
+    image: coderdojo.png
+    typeform:
+    text: O CoderDojo Minho é um movimento aberto e sem fins lucrativos para ensinar jovens dos 7 aos 17 a programar. Caso tenhas interesse em informática, aparece ou partilha!

@@ -30,13 +30,13 @@ colors:
   intro:        '#696969'
   activities:   '#428bca'
   challenges:   '#ed7950'
-  saturday-one: '#66b266'
+  allweek:      '#66b266'
   monday:       '#5ea06e'
   tuesday:      '#578e77'
   wednesday:    '#4f7c80'
   thursday:     '#486a89'
   friday:       '#415992'
-  saturday-two: '#39479b'
+  saturday:     '#39479b'
   contacts:     '#3035A4'
 
 kramdown:

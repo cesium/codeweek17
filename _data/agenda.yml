@@ -13,7 +13,7 @@ monday:
     typeform: https://cesium.typeform.com/to/HKIJg7
     text: 'A <a target="_blank" href="http://eurotux.com/">Eurotux</a> apresenta-te mais uma sessão sobre cibersegurança. Junta-te a nós para aprenderes os básicos de sistemas de segurança e como os hackers exploram as vulnerabilidades.'
 
-  - title: Introdução à Shell
+  - title: Introdução à Unix Shell
     time: 17h-19h
     place: DI A2
     image: infotricks.png
@@ -26,13 +26,13 @@ tuesday:
     place: DI A2
     image: javascript.png
     typeform: https://cesium.typeform.com/to/KXQzu7
-    text: JavaScript é uma das linguagens em maior desenvolvimento, com várias frameworks a surgir! Junta-te a <a target="_blank" href="https://github.com/pfac">Pedro Costa</a> para aprenderes os básicos desta linguagem essencial para o desenvolvimento web.
+    text: JavaScript é uma das linguagens em maior desenvolvimento, com várias frameworks a surgir! Junta-te a <a target="_blank" href="https://github.com/pfac">Pedro Costa</a> para aprenderes os básicos desta que é uma das linguagens essenciais para o desenvolvimento web.
 
   - title: Building your WebExtension
     time: 18h-19h30
     place: DI A2
     image: geenorbertk.png
-    text: TBD
+    text: O Firefox começou a suportar WebExtensions, tornando fácil portar extensões para outros browsers. Vem aprender a tomar partido desta nova tecnologia e constrói a tua própria extensão.
 
 wednesday:
   - title: Sessão de estudo de Programação Funcional
@@ -45,7 +45,7 @@ wednesday:
 thursday:
   - title: Informática, mas que raio?!
     time: 17h-19h
-    place: TBA
+    place: DI 0.11
     image: informatictricks.png
     typeform: https://cesium.typeform.com/to/jspHTH
     text: A Informática é um hobbie mas não uma vocação? Não és de um curso da área de Informática mas estás interessado em aprender mais? Então aparece! Sim estamos a falar para ti! A Informática não é só para nerds!
@@ -59,9 +59,9 @@ friday:
     text: Da lista das coisas que podes usar agora e que o curso não te oferece HTML/CSS está no topo. Aproveita esta oportunidade de aprenderes uma ferramenta nova e está atento às surpresas que temos para ti.
 
 saturday:
-  - title: CoderDojo Minho
+  - title: Coderdojo Braga
     time: 10h-12h
-    place: BragaIO 
+    place: <a href="http://braga.io/pt/">BragaIO</a> 
     image: coderdojo.png
     typeform:
-    text: O CoderDojo Minho é um movimento aberto e sem fins lucrativos para ensinar jovens dos 7 aos 17 a programar. Caso tenhas interesse em informática, aparece ou partilha!
+    text: O <a href="https://www.facebook.com/CoderdojoMinho/">Coderdojo Braga</a> é um movimento aberto e sem fins lucrativos para ensinar jovens dos 7 aos 17 a programar. Caso tenhas interesse em informática, aparece ou partilha!

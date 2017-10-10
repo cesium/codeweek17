@@ -6,7 +6,7 @@ allweek:
     text: Durante esta semana o Departamento de Informática entra numa máquina do tempo. Os computadores são substituídos pelos seus antecessores dos anos 80 e 90. Aparece para relembrares as raízes da computação através de um museu aberto!
 
 monday:
-  - title: Palestra de Segurança
+  - title: Do you feel safe?
     time: 16h-17h
     place: DI A2
     image: seguranca.png
@@ -21,17 +21,18 @@ monday:
     text: TBD
 
 tuesday:
-  - title: JavaScript
+  - title: Workshop de JavaScript
     time: 16h-18h
     place: DI A2
     image: javascript.png
     typeform: https://cesium.typeform.com/to/KXQzu7
     text: JavaScript é uma das linguagens em maior desenvolvimento, com várias frameworks a surgir! Junta-te a <a target="_blank" href="https://github.com/pfac">Pedro Costa</a> para aprenderes os básicos desta que é uma das linguagens essenciais para o desenvolvimento web.
 
-  - title: Building your WebExtension
+  - title: Build your own WebExtension
     time: 18h-19h30
     place: DI A2
     image: geenorbertk.png
+    typeform: https://cesium.typeform.com/to/l9TAMO
     text: O Firefox começou a suportar WebExtensions, tornando fácil portar extensões para outros browsers. Vem aprender a tomar partido desta nova tecnologia e constrói a tua própria extensão.
 
 wednesday:
@@ -39,7 +40,7 @@ wednesday:
     time: 17h30-19h
     place: DI 1.09
     image: sessao_estudo.png
-    typeform: https://cesium.typeform.com/to/xrourN
+    typeform: https://cesium.typeform.com/to/vSVsOQ
     text: Sentes os testes a aproximarem-se e não te sentes preparado? A programação ainda é um bicho de 7 cabeças para ti? Não tem de ser! Aparece e vem tirar dúvidas e estudar connosco. A programação não tem de ser complicada.
 
 thursday:
@@ -51,7 +52,7 @@ thursday:
     text: A Informática é um hobbie mas não uma vocação? Não és de um curso da área de Informática mas estás interessado em aprender mais? Então aparece! Sim estamos a falar para ti! A Informática não é só para nerds!
 
 friday:
-  - title: HTML/CSS
+  - title: Workshop de HTML/CSS
     time: 15h-16h
     place: DI A2
     image: html_css.png

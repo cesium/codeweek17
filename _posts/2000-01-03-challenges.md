@@ -52,7 +52,7 @@ O torneio de Hearthstone será gratuito e limitado a 16 inscrições. Este será
 
         -- A linguagem para a resolução do desafio fica à tua discrição
       {% endhighlight %}
-      <a class="challenge-apply waves-effect waves-light btn bg-white" href="http://storm.cesium.di.uminho.pt/desafio/index.html" target="blank">Inscrição</a>
+      <a class="challenge-apply waves-effect waves-light btn bg-white" href="https://cesium.typeform.com/to/DwItBk" target="blank">Inscrição</a>
     </div>
   </li>
 </ul>

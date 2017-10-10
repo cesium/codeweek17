@@ -27,9 +27,9 @@ google_analytics_key: UA-67237593-4 ## put YOUR key here to enable tracking! (bl
 colors:
   white:        '#eaeaea'
   grey :        '#696969'
-  intro:        '#696969'
+  intro:        '#2c2a2b'
   activities:   '#428bca'
-  challenges:   '#ed7950'
+  challenges:   '#ec7850'
   allweek:      '#66b266'
   monday:       '#5ea06e'
   tuesday:      '#578e77'
@@ -37,7 +37,7 @@ colors:
   thursday:     '#486a89'
   friday:       '#415992'
   saturday:     '#39479b'
-  contacts:     '#3035A4'
+  contacts:     '#313e7e'
 
 kramdown:
   auto_ids:  false

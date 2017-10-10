@@ -35,7 +35,7 @@ tuesday:
     text: O Firefox começou a suportar WebExtensions, tornando fácil portar extensões para outros browsers. Vem aprender a tomar partido desta nova tecnologia e constrói a tua própria extensão.
 
 wednesday:
-  - title: Sessão de estudo de Programação Funcional
+  - title: Sessão de estudo de PF
     time: 17h30-19h
     place: DI 1.09
     image: sessao_estudo.png

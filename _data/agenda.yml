@@ -18,7 +18,7 @@ monday:
     place: DI A2
     image: infotricks.png
     typeform: https://cesium.typeform.com/to/xrourN
-    text: Workshop onde os novos alunos poderão aprender os comandos mais importantes e básicos duma shell. Para além disso irão conhecer novas shells e novas ferramentas de trabalho que poderão levar a um trabalho mais produtivo e cómodo.
+    text: TBD
 
 tuesday:
   - title: JavaScript
@@ -32,12 +32,12 @@ tuesday:
     time: 18h-19h30
     place: DI A2
     image: geenorbertk.png
-    text: TBA
+    text: TBD
 
 wednesday:
   - title: Sessão de estudo de Programação Funcional
     time: 17h30-19h
-    place: TBA
+    place: DI 1.09
     image: sessao_estudo.png
     typeform: https://cesium.typeform.com/to/xrourN
     text: Sentes os testes a aproximarem-se e não te sentes preparado? A programação ainda é um bicho de 7 cabeças para ti? Não tem de ser! Aparece e vem tirar dúvidas e estudar connosco. A programação não tem de ser complicada.

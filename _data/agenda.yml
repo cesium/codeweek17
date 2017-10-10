@@ -3,7 +3,7 @@ allweek:
     time: 9h-18h
     place: Átrio do DI
     image: retro.png
-    text: É durante este dia que o Departamento de Informática entra numa máquina do tempo. Os computadores são substituídos pelos seus antecessores dos anos 80 e 90. Aparece para relembrares as raízes da computação através de um museu aberto!
+    text: Durante esta semana o Departamento de Informática entra numa máquina do tempo. Os computadores são substituídos pelos seus antecessores dos anos 80 e 90. Aparece para relembrares as raízes da computação através de um museu aberto!
 
 monday:
   - title: Palestra de Segurança
@@ -11,10 +11,10 @@ monday:
     place: DI A2
     image: seguranca.png
     typeform: https://cesium.typeform.com/to/HKIJg7
-    text: 'A <a target="_blank" href="http://eurotux.com/">Eurotux</a> apresenta-te mais uma sessão sobre cibersegurança. Junta-te a nós para aprenderes os básicos de sistemas e segurança e como os hackers exploram as vulnerabilidades.'
+    text: 'A <a target="_blank" href="http://eurotux.com/">Eurotux</a> apresenta-te mais uma sessão sobre cibersegurança. Junta-te a nós para aprenderes os básicos de sistemas de segurança e como os hackers exploram as vulnerabilidades.'
 
   - title: Introdução à Shell
-    time: 17h-18h
+    time: 17h-19h
     place: DI A2
     image: infotricks.png
     typeform: https://cesium.typeform.com/to/xrourN
@@ -22,14 +22,14 @@ monday:
 
 tuesday:
   - title: JavaScript
-    time: 16h-17h
+    time: 16h-18h
     place: DI A2
     image: javascript.png
     typeform: https://cesium.typeform.com/to/KXQzu7
     text: JavaScript é uma das linguagens em maior desenvolvimento, com várias frameworks a surgir! Junta-te a <a target="_blank" href="https://github.com/pfac">Pedro Costa</a> para aprenderes os básicos desta linguagem essencial para o desenvolvimento web.
 
   - title: Building your WebExtension
-    time: 17h-18h
+    time: 18h-19h30
     place: DI A2
     image: geenorbertk.png
     text: TBA
@@ -44,7 +44,7 @@ wednesday:
 
 thursday:
   - title: Informática, mas que raio?!
-    time: 17h-18h
+    time: 17h-19h
     place: TBA
     image: informatictricks.png
     typeform: https://cesium.typeform.com/to/jspHTH
@@ -52,7 +52,7 @@ thursday:
 
 friday:
   - title: HTML/CSS
-    time: 17h-19h
+    time: 15h-16h
     place: DI A2
     image: html_css.png
     typeform: https://cesium.typeform.com/to/YfsOjE

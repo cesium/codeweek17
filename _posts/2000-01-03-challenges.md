@@ -13,19 +13,18 @@ O torneio de Hearthstone será gratuito e limitado a 16 inscrições. Este será
 ## Prémios
 <div class="row features">
   <div class="col s12 m6 feature" target="_blank">
-    <h3> 1º Prémio </h3>
+    <h4> 1º Classificado </h4>
     <h4 class="feature-description">
-    <a href="https://us.battle.net/shop/en/product/hearthstone-journey-to-ungoro">15x Packs</a>  
+    <a href="https://us.battle.net/shop/en/product/hearthstone-journey-to-ungoro"><img id="prizes" src="img/cartas.png"/></a>  
     </h4>
   </div>
   <div class="col s12 m6 feature">
-    <h3> 2º Prémio </h3>
+    <h4> 2º Classificado </h4>
     <h4 class="feature-description">
-    <a href="https://us.battle.net/shop/en/product/hearthstone-journey-to-ungoro"> 7x Packs </a></h4>
+    <a href="https://us.battle.net/shop/en/product/hearthstone-journey-to-ungoro"><img id="prizes" src="img/cartas2.png"/></a> 
+    </h4>
   </div>
 </div>
-
-<hr/>
 
 <ul class="challenge collapsible" data-collapsible="accordion">
   <li>

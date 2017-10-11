@@ -29,29 +29,48 @@ O torneio de Hearthstone será gratuito e limitado a 16 inscrições. Este será
 <ul class="challenge collapsible" data-collapsible="accordion">
   <li>
     <div class="challenge-title collapsible-header"><i class="fa fa-gavel fa-4x"></i>Regulamento</div>
-    <div class="challenge-body collapsible-body">
-      {% highlight haskell %}
-        -- Descobrir o posicionamento de aspersores de água
-        -- Por cada posição regada, 1 ponto é atribuído
-        -- O objetivo é maximizar a pontuação
-          -- Só se podem colocar no máximo 8 aspersores
-          -- Cada aspersor só pode regar com um raio máximo de 20
-          -- Não se pode regar mais do que um cato
-          -- Não se pode regar fora da área de 51x51
-
-        -- Posições dos catos:
-          [(1, 14),(3, 47),(18, 6),(18, 2),(22, 17),(37, 3),(9, 6),
-          (23, 10),(12, 49),(21, 50),(33, 0),(30, 47),(36, 16),(20, 22),
-          (2, 41),(37, 48),(18, 9),(48, 36),(28, 34),(5, 24)]
-
-        -- Syntax do output
-          [(x, y, radius), (x, y, radius)]
-        -- Exemplo de output
-          [(5, 5, 2), (35, 5, 1)]
-
-        -- A linguagem para a resolução do desafio fica à tua discrição
-      {% endhighlight %}
-      <a class="challenge-apply waves-effect waves-light btn bg-white" href="https://cesium.typeform.com/to/DwItBk" target="blank">Inscrição</a>
+    <div class="bg-white challenge-body collapsible-body">
+    <br>
+    <h2> Funcionamento dos Jogos </h2>
+    <ul>
+	<li>
+	    1) O torneio é composto por 4 fases.
+	</li>
+	<li>
+	    2) Sempre que possível, os jogos serão observados pela organização (em spectator mode). O resultado terá de ser enviado para recreativo@cesium.di.uminho.pt por ambos os jogadores. O incumprimento deste ponto será analisado pela organização e, se for o caso, serão aplicadas sanções.
+	</li>
+	<li>
+	    3) Os jogos terão de ser realizados até às datas estipuladas (sendo estes combinados entre os jogadores e as datas informadas à organização). O incumprimento deste ponto será analisado pela organização e, se for o caso, serão aplicadas sanções.
+	</li>
+	<li>
+	    4) Em cada fase, cada jogador poderá escolher 3 decks (de diferentes classes feitos pelos próprios) que terão que ser indicados ao adversário (apenas as classes)  no início do mesmo. Se perder pode optar por trocar o deck por outro de uma classe diferente, ou optar por continuar a jogar com o mesmo. Caso ganhe, não pode jogar mais com o deck de essa classe nessa mesma fase.
+	</li>
+	<li>
+	    5) A fase final (quarta fase) será feita presencialmente.
+	</li>
+	<li>
+	    6) Caso ocorra algum problema contacte a organização.
+	</li>
+	<li>
+	    7) A organização não se responsabiliza por irregularidades cometidas se as mesmas não forem comunicadas à organização.
+	</li>
+	<li>
+	    8) A organização recomenda que sejam guardadas as trocas de mensagens entre os jogadores a fim de serem usadas como provas.
+	</li>
+    </ul>
+    <h2>Estrutura do Torneio</h2>
+    <ul>
+	<li>
+	    1) O limite de inscrições é de 16 jogadores.
+	</li>
+	<li>
+	    2) Os jogos da fase 1 serão gerados aleatoriamente. Os restantes jogos seguem um esquema em árvore. 
+	</li>
+	<li>
+	    3) Em cada fase do torneio ( exceção da última) os jogos serão a eliminar, isto é, a partir do momento que um jogador perca a fase este será eliminado do torneio.
+	</li>
+    </ul>
+     <a class="challenge-apply waves-effect waves-light btn bg-white" href="https://cesium.typeform.com/to/DwItBk" target="blank">Inscrição</a>
     </div>
   </li>
 </ul>

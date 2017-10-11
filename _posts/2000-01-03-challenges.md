@@ -15,13 +15,13 @@ O torneio de Hearthstone será gratuito e limitado a 16 inscrições. Este será
   <div class="col s12 m6 feature" target="_blank">
     <h4> 1º Classificado </h4>
     <h4 class="feature-description">
-    <a href="https://us.battle.net/shop/en/product/hearthstone-journey-to-ungoro"><img id="prizes" src="img/cartas.png"/></a>  
+    <a href="https://us.battle.net/shop/en/product/hearthstone-journey-to-ungoro"><img class="prizes" src="img/cartas.png"/></a>  
     </h4>
   </div>
   <div class="col s12 m6 feature">
     <h4> 2º Classificado </h4>
     <h4 class="feature-description">
-    <a href="https://us.battle.net/shop/en/product/hearthstone-journey-to-ungoro"><img id="prizes" src="img/cartas2.png"/></a> 
+    <a href="https://us.battle.net/shop/en/product/hearthstone-journey-to-ungoro"><img class="prizes" src="img/cartas2.png"/></a> 
     </h4>
   </div>
 </div>
@@ -70,7 +70,7 @@ O torneio de Hearthstone será gratuito e limitado a 16 inscrições. Este será
 	    3) Em cada fase do torneio ( exceção da última) os jogos serão a eliminar, isto é, a partir do momento que um jogador perca a fase este será eliminado do torneio.
 	</li>
     </ul>
-     <a class="challenge-apply waves-effect waves-light btn bg-white" href="https://cesium.typeform.com/to/DwItBk" target="blank">Inscrição</a>
+     <a class="challenge-apply waves-effect waves-light btn bg-challenges" href="https://cesium.typeform.com/to/DwItBk" target="blank">Inscrição</a>
     </div>
   </li>
 </ul>

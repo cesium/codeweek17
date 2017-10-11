@@ -20,7 +20,7 @@ description: "Code Week 2017 no Departamento de Informática da Universidade do 
 source_link: "https://github.com/cesium/codeweek15"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
-google_analytics_key: UA-67237593-4 ## put YOUR key here to enable tracking! (blank to disable)
+google_analytics_key: UA-67237593-6 ## put YOUR key here to enable tracking! (blank to disable)
 
 
 ### template colors, used site-wide via css ###

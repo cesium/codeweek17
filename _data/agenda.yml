@@ -11,7 +11,7 @@ monday:
     place: DI A2
     image: seguranca.png
     typeform: https://cesium.typeform.com/to/HKIJg7
-    text: 'A <a target="_blank" href="http://eurotux.com/">Eurotux</a> apresenta-te mais uma sessão sobre cibersegurança. Junta-te a nós para aprenderes os básicos de sistemas de segurança e como os hackers exploram as vulnerabilidades.'
+    text: 'Que tal uma sessão sobre cibersegurança? Junta-te a nós para aprenderes os básicos de sistemas de segurança e como os hackers exploram as vulnerabilidades.'
 
   - title: Introdução à Unix Shell
     time: 17h-19h

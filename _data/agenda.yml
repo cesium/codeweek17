@@ -18,7 +18,7 @@ monday:
     place: DI A2
     image: infotricks.png
     typeform: https://cesium.typeform.com/to/xrourN
-    text: TBD
+    text: És novo nos sistemas Unix e ainda não consegues trabalhar com a shell, pior, nem sequer sabes o que é isso? Não te preocupes, o CeSIUM encarrega-se de te ensinar as melhores ferramentas para tornar o teu trabalho mais produtivo e cómodo. Participa e liberta todo o poder da tua máquina.
 
 tuesday:
   - title: Workshop de JavaScript

@@ -79,7 +79,7 @@ O torneio de Hearthstone será gratuito e limitado a 16 inscrições. Este será
 	    Fase 1: Até 19 de Outubro. Melhor de 5 jogos.
 	</li>
 	<li>
-	    Fase 2: Até 25 de Outubro. Melhor de 5 jogos.
+	    Fase 2: Até 21 de Outubro. Melhor de 5 jogos.
 	</li>
 	<li>
 	    Fase 3: Até 23 de Outubro. Melhor de 5 jogos.

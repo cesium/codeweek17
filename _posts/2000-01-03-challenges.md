@@ -70,6 +70,24 @@ O torneio de Hearthstone será gratuito e limitado a 16 inscrições. Este será
 	    3) Em cada fase do torneio ( exceção da última) os jogos serão a eliminar, isto é, a partir do momento que um jogador perca a fase este será eliminado do torneio.
 	</li>
     </ul>
+
+    <ul>
+	<li>
+	    Fase 1: Até 19 de Outubro. Melhor de 5 jogos.
+	</li>
+	<li>
+	    Fase 2: Até 25 de Outubro. Melhor de 5 jogos.
+	</li>
+	<li>
+	    Fase 3: Até 23 de Outubro. Melhor de 5 jogos.
+	</li>
+	<li>
+	    Fase final: 25 de Outubro. Melhor de 5 jogos. Presencial.
+	</li>
+    </ul>
+
+
+
      <a class="challenge-apply waves-effect waves-light btn bg-challenges" href="https://cesium.typeform.com/to/DwItBk" target="blank">Inscrição</a>
     </div>
   </li>

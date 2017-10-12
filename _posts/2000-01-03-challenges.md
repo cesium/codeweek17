@@ -57,6 +57,9 @@ O torneio de Hearthstone será gratuito e limitado a 16 inscrições. Este será
 	<li>
 	    8) A organização recomenda que sejam guardadas as trocas de mensagens entre os jogadores a fim de serem usadas como provas.
 	</li>
+	<li>
+		9) Os jogos serão realizados no modo Standard.
+	</li>
     </ul>
     <h2>Estrutura do Torneio</h2>
     <ul>

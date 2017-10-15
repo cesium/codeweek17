@@ -12,6 +12,7 @@ monday:
     image: seguranca.png
     typeform: https://cesium.typeform.com/to/HKIJg7
     text: 'Que tal uma sessão sobre cibersegurança? Junta-te a nós para aprenderes os básicos de sistemas de segurança e como os hackers exploram as vulnerabilidades.'
+    speaker: <a target="_blank" href="https://www.facebook.com/tdosilva">Tânia Silva</a>, <a target="_blank" href="https://www.facebook.com/zepedro.resende.1">Zé Pedro Resende</a>, <a target="_blank" href="https://www.facebook.com/daniel.tinoco.10">Daniel Tinoco</a>  
 
   - title: Introdução à Unix Shell
     time: 17h-19h
@@ -19,6 +20,7 @@ monday:
     image: infotricks.png
     typeform: https://cesium.typeform.com/to/xrourN
     text: És novo nos sistemas Unix e ainda não consegues trabalhar com a shell, pior, nem sequer sabes o que é isso? Não te preocupes, o CeSIUM encarrega-se de te ensinar as melhores ferramentas para tornar o teu trabalho mais produtivo e cómodo. Participa e liberta todo o poder da tua máquina.
+    speaker: <a target="_blank" href="https://www.facebook.com/zepedro.resende.1">Zé Pedro Resende</a>
 
 tuesday:
   - title: Workshop de JavaScript
@@ -27,6 +29,7 @@ tuesday:
     image: javascript.png
     typeform: https://cesium.typeform.com/to/KXQzu7
     text: JavaScript é uma das linguagens em maior desenvolvimento, com várias frameworks a surgir! Junta-te a <a target="_blank" href="https://github.com/pfac">Pedro Costa</a> para aprenderes os básicos desta que é uma das linguagens essenciais para o desenvolvimento web.
+    speaker: <a target="_blank" href="https://github.com/pfac">Pedro Costa</a>
 
   - title: Build your own WebExtension
     time: 18h-19h30
@@ -34,6 +37,7 @@ tuesday:
     image: geenorbertk.png
     typeform: https://cesium.typeform.com/to/l9TAMO
     text: O Firefox começou a suportar WebExtensions, tornando fácil portar extensões para outros browsers. Vem aprender a tomar partido desta nova tecnologia e constrói a tua própria extensão.
+    speaker: <a target="_blank" href="https://github.com/9thscientist">Bruno Cancelinha</a>
 
 wednesday:
   - title: Sessão de estudo de PF
@@ -50,6 +54,7 @@ thursday:
     image: informatictricks.png
     typeform: https://cesium.typeform.com/to/jspHTH
     text: A Informática é um hobbie mas não uma vocação? Não és de um curso da área de Informática mas estás interessado em aprender mais? Então aparece! Sim estamos a falar para ti! A Informática não é só para nerds!
+    speaker: <a target="_blank" href="https://www.facebook.com/richard33z">Ricardo Pereira</a>, <a target="_blank" href="https://www.facebook.com/Simbs38">André Gonçalves</a>
 
 friday:
   - title: Workshop de HTML/CSS
@@ -58,6 +63,7 @@ friday:
     image: html_css.png
     typeform: https://cesium.typeform.com/to/YfsOjE
     text: Da lista das coisas que podes usar agora e que o curso não te oferece HTML/CSS está no topo. Aproveita esta oportunidade de aprenderes uma ferramenta nova e está atento às surpresas que temos para ti.
+    speaker: <a target="_blank" href="https://www.facebook.com/hugainz">Hugo Gonçalves</a>
 
 saturday:
   - title: Coderdojo Braga

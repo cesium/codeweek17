@@ -12,7 +12,7 @@ monday:
     image: seguranca.png
     typeform: https://cesium.typeform.com/to/HKIJg7
     text: 'Que tal uma sessão sobre cibersegurança? Junta-te a nós para aprenderes os básicos de sistemas de segurança e como os hackers exploram as vulnerabilidades.'
-    speaker: <a target="_blank" href="https://www.facebook.com/tdosilva">Tânia Silva</a>, <a target="_blank" href="https://www.facebook.com/zepedro.resende.1">Zé Pedro Resende</a>, <a target="_blank" href="https://www.facebook.com/daniel.tinoco.10">Daniel Tinoco</a>  
+    speaker: <a target="_blank" href="https://www.facebook.com/tdosilva">Tânia Silva</a>, <a target="_blank" href="https://www.facebook.com/zepedro.resende.1">Zé Pedro Resende</a>, <a target="_blank" href="https://github.com/0urobor0s">Daniel Tinoco</a>  
 
   - title: Introdução à Unix Shell
     time: 17h-19h

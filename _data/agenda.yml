@@ -12,7 +12,7 @@ monday:
     image: seguranca.png
     typeform: https://cesium.typeform.com/to/HKIJg7
     text: 'Que tal uma sessão sobre cibersegurança? Junta-te a nós para aprenderes os básicos de sistemas de segurança e como os hackers exploram as vulnerabilidades.'
-    speaker: <a target="_blank" href="https://github.com/p3rsephone">Tânia Silva</a>, <a target="_blank" href="https://github.com/ZePedroResende">Zé Pedro Resende</a>, <a target="_blank" href="https://github.com/0urobor0s">Daniel Tinoco</a>  
+    speaker: <a target="_blank" href="https://github.com/p3rsephone">Tânia Silva</a>, <a target="_blank" href="https://github.com/ZePedroResende">Zé Pedro Resende</a>
 
   - title: Introdução à Unix Shell
     time: 17h-19h
@@ -20,7 +20,7 @@ monday:
     image: infotricks.png
     typeform: https://cesium.typeform.com/to/xrourN
     text: És novo nos sistemas Unix e ainda não consegues trabalhar com a shell, pior, nem sequer sabes o que é isso? Não te preocupes, o CeSIUM encarrega-se de te ensinar as melhores ferramentas para tornar o teu trabalho mais produtivo e cómodo. Participa e liberta todo o poder da tua máquina.
-    speaker: <a target="_blank" href="https://www.facebook.com/zepedro.resende.1">Zé Pedro Resende</a>
+    speaker: <a target="_blank" href="https://www.facebook.com/zepedro.resende.1">Zé Pedro Resende</a>, <a target="_blank" href="https://github.com/0urobor0s">Daniel Tinoco</a>  
 
 tuesday:
   - title: Workshop de JavaScript

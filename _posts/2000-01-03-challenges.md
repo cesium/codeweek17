@@ -94,7 +94,7 @@ O torneio de Hearthstone será gratuito e limitado a 16 inscrições. Este será
 
 
 
-     <a class="challenge-apply waves-effect waves-light btn bg-challenges" href="https://cesium.typeform.com/to/DwItBk" target="blank">Inscrição</a>
+     <a class="challenge-apply waves-effect waves-light btn bg-challenges" href="http://challonge.com/e0vl4u3y" target="blank">Resultados</a>
     </div>
   </li>
 </ul>
